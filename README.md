@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AminKhanmohamadi
 - 👀 I’m interested in Django and DRF
-- 🌱 I’m currently learning Django 
+- 🌱 I’m an experienced junior Django developer with a passion for web development and the Django framework. I have a good command of Django and Django Rest Framework and can work with them at a junior level. My work experience includes projects where I have utilized            these frameworks and made improvements to them. 
 
 
 <!---
