@@ -13,4 +13,4 @@
 <h2 dir='auto'>Socials</h2>
 <a href="https://instagram.com/amin__khm" rel="nofollow"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'  />
   
-<a href="www.linkedin.com/in/amin-khanmohammadi-60790a2b5" rel="nofollow"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'  />
+<a href="https://www.linkedin.com/in/amin-khanmohammadi-60790a2b5" rel="nofollow"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'  />
